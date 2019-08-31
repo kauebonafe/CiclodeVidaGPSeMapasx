@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ciclo de Vida GPS e Mapasx</string>
+    <string name="action_settings">Settings</string>
+    <string name="sem_gps_nao_rola">Sem GPS não vai rolar</string>
+</resources>
